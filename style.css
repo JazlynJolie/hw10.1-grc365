@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0; 
+  box-sizing: border-box;
+
 }
 
 html {
@@ -20,7 +22,7 @@ html {
 }
 
 .border-box{
-  
+  box-sizing: border-box;
 }
 
 strong {
