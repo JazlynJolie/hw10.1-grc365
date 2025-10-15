@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0; 
   box-sizing: border-box;
-
 }
 
 html {
@@ -27,17 +26,24 @@ html {
 
 strong {
   background-color: #ffc0ad;
+  width: 25px;
+  display: block;
 }
 
 .inline {
   background-color: #ffc0ad;
+  width: 25px;
+  display: inline;
 }
 
 .inlineBlock {
   background-color: #ff8ba7;
+  width: 50px;
+  display: inline-block;
 }
 
 .two {
+  
 }
 
 .three {
